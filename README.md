@@ -1,6 +1,6 @@
 # Flask Vercel Template
 
-Template repo for creating flask apps on [Vercel](https://vercel.com/) (previously Now).  
+Template repo for creating flask apps on [Vercel](https://vercel.com/).  
 This repo contains minimal boilerplate to get your application going.  
 
 ## Example endpoints
